@@ -9,7 +9,7 @@ The **🎫 Discord Token Generator** is a powerful automation tool for creating 
 
 <div align="center">
 
-[![Download Discord Token Generator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-token-generator)
+[![Download Discord Token Generator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-token-generator)
 
 </div>
 
@@ -101,7 +101,7 @@ You need a token generator. Bulk creation. Automatic verification. Fast.
 5. **⚙️ Configure settings** — set number of accounts, proxy options
 6. **🚀 Click "Generate"** — watch accounts create
 
-[![Download Discord Token Generator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-token-generator)
+[![Download Discord Token Generator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-token-generator)
 
 ### Main Interface
 
@@ -360,7 +360,7 @@ Bulk Discord account creation made simple. **Discord Token Generator** automates
 
 <div align="center">
 
-[![Download Discord Token Generator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-token-generator)
+[![Download Discord Token Generator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-token-generator)
 
 **Version 2.3.0** — Bulk account creator. Free forever.
 
